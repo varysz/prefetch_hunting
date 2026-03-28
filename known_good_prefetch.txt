@@ -1,0 +1,96 @@
+# Google
+google.com
+googleapis.com
+gstatic.com
+fonts.googleapis.com
+fonts.gstatic.com
+maps.googleapis.com
+maps.gstatic.com
+ajax.googleapis.com
+apis.google.com
+google-analytics.com
+www.google-analytics.com
+ssl.google-analytics.com
+googletagmanager.com
+www.googletagmanager.com
+googletagservices.com
+adservice.google.com
+pagead2.googlesyndication.com
+doubleclick.net
+ad.doubleclick.net
+
+# YouTube
+youtube.com
+ytimg.com
+
+# Facebook / Meta
+connect.facebook.net
+facebook.com
+fbcdn.net
+
+# Twitter / X
+platform.twitter.com
+syndication.twitter.com
+
+# LinkedIn
+platform.linkedin.com
+static.licdn.com
+
+# Instagram
+platform.instagram.com
+
+# WordPress infrastructure
+wp.com
+wordpress.com
+stats.wp.com
+pixel.wp.com
+i0.wp.com
+i1.wp.com
+i2.wp.com
+s.gravatar.com
+0.gravatar.com
+1.gravatar.com
+2.gravatar.com
+secure.gravatar.com
+s.w.org
+
+# CDN / Infrastructure
+cdnjs.cloudflare.com
+cloudflare.com
+jquery.com
+bootstrapcdn.com
+cdn.cookielaw.org
+cdn.trustedsite.com
+
+# Social sharing
+disqus.com
+s7.addthis.com
+w.sharethis.com
+api.pinterest.com
+platform-api.sharethis.com
+
+# Microsoft / Bing
+bing.com
+microsoft.com
+
+# Adobe Fonts (Typekit)
+typekit.net
+use.typekit.net
+p.typekit.net
+performance.typekit.net
+
+# Bunny Fonts (GDPR-friendly Google Fonts alternative)
+fonts.bunny.net
+
+# Font Awesome
+use.fontawesome.com
+ka-f.fontawesome.com
+
+# Common analytics / tag managers
+hotjar.com
+segment.com
+hubspot.com
+
+manifest.json
+amazonaws.com
+omappapi.com

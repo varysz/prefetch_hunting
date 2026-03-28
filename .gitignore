@@ -1,0 +1,6 @@
+.env
+domains.txt
+searchterms.txt
+results_*.txt
+__pycache__/
+*.pyc
