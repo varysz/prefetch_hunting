@@ -94,3 +94,10 @@ hubspot.com
 manifest.json
 amazonaws.com
 omappapi.com
+
+
+# more matches
+www.apexchat.net
+www.googleadservices.com
+js.callrail.com
+cdn.callrail.com

@@ -1,0 +1,10 @@
+# Known good domains for async script tags — one domain per line
+# Entries here will NOT be flagged, even if the path looks suspicious
+# Example entries (uncomment or add your own):
+googletagmanager.com
+google-analytics.com
+googleapis.com
+cloudflare.com
+jsdelivr.net
+cdnjs.cloudflare.com
+cdn-cookieyes.com
