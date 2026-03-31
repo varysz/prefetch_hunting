@@ -101,3 +101,7 @@ www.apexchat.net
 www.googleadservices.com
 js.callrail.com
 cdn.callrail.com
+unpkg.com
+www.fbgcdn.com
+pathaudit.info
+static.addtoany.com
